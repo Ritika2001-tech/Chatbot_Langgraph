@@ -17,15 +17,6 @@ This project showcases LangGraph's ability to create both simple and tool-augmen
 
 ---
 
-
-###  Setup and Installation
-Installed the necessary libraries to support chatbot development:  
-''' bash
-pip install langgraph langsmith
-pip install langchain langchain_groq langchain_community
-'''
----
-
 ## Key Highlights
 
 ### LangGraph Capabilities
